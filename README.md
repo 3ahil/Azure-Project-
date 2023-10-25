@@ -1,6 +1,8 @@
+
 # Podcast Website Deployment using Azure Services
 
-![Project Image](images/project_image.png) 
+![Project Image](images/project_image.png) ![image](https://github.com/3ahil/Azure-Project-/assets/91610344/e4945357-4119-4d1f-b1c6-505905046d14)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -91,6 +93,12 @@ The Deploying a podcast website using Azure Services project provides the follow
 
 ### Step 4: Adding Azure Services
 1. Add additional Azure services like App Service, Storage Account, and Application Insights to your project.
+2. ![image](https://github.com/3ahil/Azure-Project-/assets/91610344/b64dcf60-3f73-4e5e-9a67-00a9baaa4875) APP SERVICE SCREENSHOT
+3. ![image](https://github.com/3ahil/Azure-Project-/assets/91610344/27606de0-448b-4914-b296-80b7b46982c6) STORAGE ACCOUNT BACKUP SCREENSHOT
+4. ![image](https://github.com/3ahil/Azure-Project-/assets/91610344/5276fe4a-9430-4571-aec2-1fc70141a612) APPLICATION INSIGHT (MONITOR) SCREENSHOT
+
+
+
 
 ### Step 5: Connecting Azure Storage
 1. Create a storage account in Azure.
@@ -106,7 +114,16 @@ The Deploying a podcast website using Azure Services project provides the follow
 Deploying a podcast website using Azure Services offers podcast creators numerous advantages that can significantly enhance their podcasting experience. Azure's robust cloud infrastructure provides scalability, security, and high availability, ensuring that your podcast content is efficiently delivered to a global audience. With the ability to automate routine tasks, gain valuable insights through analytics, and customize your website to match your branding, Azure empowers podcasters to focus on creating compelling content while streamlining the technical aspects of website management. Moreover, Azure's cost-effective pay-as-you-go pricing model and support for compliance and regulatory requirements make it an ideal choice for podcast hosting. By harnessing the power of Azure, podcasters can expand their reach, engage with their audience, and build a successful and sustainable podcasting platform.
 
 ## Screenshots
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
-![Screenshot 3](images/screenshot3.png)
+![Screenshot 1](images/screenshot1.png)![image](https://github.com/3ahil/Azure-Project-/assets/91610344/b6c93a91-1bd7-486e-a249-04253813be22)
+
+![Screenshot 2](images/screenshot2.png)![image](https://github.com/3ahil/Azure-Project-/assets/91610344/d1861c67-e0c8-4488-a885-41f2a69aa2a7)
+
+![Screenshot 3](images/screenshot3.png)![image](https://github.com/3ahil/Azure-Project-/assets/91610344/5087ed98-3652-4828-9039-802a41d1d6c0)
+![image](https://github.com/3ahil/Azure-Project-/assets/91610344/2f61f0ae-7cd3-4bde-8fb8-3bdb64ab47bd)
+![image](https://github.com/3ahil/Azure-Project-/assets/91610344/2ad1befc-cb3d-4c2d-8e65-ce10c8acfb7b)
+![image](https://github.com/3ahil/Azure-Project-/assets/91610344/b0818f85-11ee-4112-9dda-19e69a58a6b7)
+
+
+
+
 
